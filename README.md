@@ -25,7 +25,7 @@ By working on this project, you will learn how to consume data from public APIs,
 
 ## **Prerequisites**
 Before running the project, ensure you have the following installed:
-- Python 3.x
+- Python 3
 - `requests` library
 - `pandas` library
 - `matplotlib` library
