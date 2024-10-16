@@ -43,8 +43,8 @@ pip install requests pandas matplotlib pillow
    
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/username/nasa-api-exploration.git
-   cd nasa-api-exploration
+   git clone https://github.com/cliffordnwanna/NASA_API_EDA
+   cd NASA_API_EDA
    ```
 
 3. **Configure the Project:**
@@ -56,7 +56,7 @@ pip install requests pandas matplotlib pillow
 4. **Run the Script:**
    Execute the script to see the **Astronomy Picture of the Day** and fetch data on **near-Earth objects**:
    ```bash
-   python nasa_project.py
+   python NASA API Data Exploration Project
    ```
 
 ## **Project Structure**
